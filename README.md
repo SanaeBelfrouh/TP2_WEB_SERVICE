@@ -22,5 +22,7 @@
 ![image](https://user-images.githubusercontent.com/116807307/227809461-21b68b84-b48f-435c-b45a-94503267ee3f.png)
 ![WhatsApp Image 2023-03-26 at 16 20 56](https://user-images.githubusercontent.com/116807307/227809430-ad69cc18-310e-4a6b-8916-0d1a99af5a18.jpeg)
 7. Créer un Client SOAP PHP
+![image](https://user-images.githubusercontent.com/116807307/228295217-74887efd-15aa-4558-848b-08068f0f1fc6.png)
+![php](https://user-images.githubusercontent.com/116807307/228294955-98e1108e-09d8-41f4-971d-04bf20f3f26a.PNG)
 8. Déployer le Web Service dans un Projet Spring Boot
 
